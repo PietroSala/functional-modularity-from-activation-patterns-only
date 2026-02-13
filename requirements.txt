@@ -1,0 +1,14 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+tk
+einops
+scikit-image
+tqdm
+kneed
+umap-learn
+torchsummary
+ax-platform
+-e ./modularnet 

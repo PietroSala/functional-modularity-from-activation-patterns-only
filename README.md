@@ -10,3 +10,7 @@ This repository contains the code to reproduce the results presented in the pape
 ## License
 
 This project is released under the GNU General Public License v2.0 (GPL-2.0). See `LICENSE`.
+
+## Install
+
+./install.sh
