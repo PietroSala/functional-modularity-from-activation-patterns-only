@@ -1,0 +1,25 @@
+[project]
+
+name = "modularnet"
+version = "0.1"
+dependencies = [
+    "torch",
+    "torchvision",
+    "matplotlib",
+    "numpy",
+    "scikit-learn",
+    "tk",
+    "hdbscan",
+    "einops",
+    "scikit-image",
+    "tqdm",
+    "wandb",
+    "kneed",
+    "umap-learn",
+    "torchsummary",
+    "ax-platform",
+    "kaleido",
+]
+
+[project.optional-dependencies]
+dev = []
